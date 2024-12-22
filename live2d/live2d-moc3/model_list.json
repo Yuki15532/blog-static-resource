@@ -1,8 +1,8 @@
 {
     "models": [
-        "Togawa Sakiko/saki"
+        ["Togawa Sakiko"]
     ],
     "messages": [
-        "客服小祥为您服务~"
+        ["客服小祥为您服务~"]
     ]
 }
